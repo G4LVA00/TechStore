@@ -1,6 +1,6 @@
 // Substitua pelas suas credenciais reais do Supabase (Settings > API)
-const SUPABASE_URL = 'https://SEU-PROJETO.supabase.co';
-const SUPABASE_ANON_KEY = 'SUA-CHAVE-ANON-AQUI';
+const SUPABASE_URL = 'mdubqciocrjxinpasbwl';
+const SUPABASE_ANON_KEY = 'sb_publishable_egGYco35J0s60TwnPG7R5Q_cDpkuDnq';
 
 const supabase = window.supabase.createClient(SUPABASE_URL, SUPABASE_ANON_KEY);
 
